@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "almoço",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 27,
+      "createdAt": "2022-11-18T10:24:04.290Z"
+    },
+    {
+      "id": 2,
+      "description": "jantar",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 32,
+      "createdAt": "2022-11-18T10:24:54.290Z"
+    },
+    {
+      "id": 3,
+      "description": "Treinamento",
+      "type": "income",
+      "category": "Educacao",
+      "price": 1500,
+      "createdAt": "2022-11-18T10:24:54.290Z"
+    }
+  ]
+}
